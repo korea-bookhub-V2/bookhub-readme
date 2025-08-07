@@ -20,7 +20,7 @@
 
 | **고혁재** | **최서윤** | **성재원** |
 | :------: |  :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @khj](https://github.com/yeon1615) | [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @csw](https://github.com/yeon1615) | [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @sjw](https://github.com/yeon1615) |
+| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @khj](https://github.com/yeon1615) | [<img src="./images/seoyoon.png" height=150 width=150> <br/> @csy](https://github.com/seoyoonchoi) | [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @sjw](https://github.com/yeon1615) |
 
 
 
